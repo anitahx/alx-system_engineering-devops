@@ -1,2 +1,2 @@
-#1/bib/bash
+#1/bin/bash
 chmod --reference=olleh hello
